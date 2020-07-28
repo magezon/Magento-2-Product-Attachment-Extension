@@ -84,11 +84,14 @@
                 </tr>
                 <br/>
                 <tr id="unlimited-formats">
-                    <td>
+                    <tr>
+                <td>
                         <h2>Attach Unlimited Files of Various Formats</h2>
                       <p>No matter which file type you want to upload, <b>Product Attachments</b> extension can support all. Attach multiple files in any desired format to help customers access as much useful product information as possible. </p>
                     </td>
-                    <table>
+                </tr>    
+                    <tr>
+                        <table>
                         <tbody>
                             <tr>                                                   
                                 <td valign="top">
@@ -147,12 +150,13 @@
                         </tbody>
                     </table>
                 </tr>
+                </tr>
                 <br/>
                 <tr id="icons">
                     <td  width="50%">
                         <img src="https://i.ibb.co/dcxvSY0/Screenshot.png" alt="Display Icons Matching Each Attachment Type" title="Display Icons Matching Each Attachment Type">
                     </td>
-                    <td>
+                    <td width="40%">
                         <h2>Display Icons Matching Each Attachment Type</h2>
                         <p>You can upload your own icon images and assign them to each file type so that customers can easily recognize which kind of attachment they’re going to view or download. </p>
                         <p>When an attachment is uploaded, it will be auto displayed with the icon it’s been assigned to. </p>
