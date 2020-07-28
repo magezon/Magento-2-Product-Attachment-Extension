@@ -149,8 +149,8 @@
                 </tr>
                 <br/>
                 <tr id="icons">
-                    <td>
-                        <img src="https://www.magezon.com/pub/media/product-attachments/display-icons-matching-each-file-type.gif" alt="Display Icons Matching Each Attachment Type" title="Display Icons Matching Each Attachment Type">
+                    <td  width="50%">
+                        <img src="https://i.ibb.co/dcxvSY0/Screenshot.png" alt="Display Icons Matching Each Attachment Type" title="Display Icons Matching Each Attachment Type">
                     </td>
                     <td>
                         <h2>Display Icons Matching Each Attachment Type</h2>
