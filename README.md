@@ -91,8 +91,8 @@
                 </tr>
                 <br/>
                 <tr>
-                <td colspan="2">
-                    <table>
+                <td colspan="2" align="center">
+                    <table align="center">
                         <tbody>
                             <tr>
                                 <td width="50%" style="display: inline-block;">
@@ -102,32 +102,32 @@
                                 </td>
                                 <td width="50%">
                                     <img src="https://i.ibb.co/XyTgZst/icon2.png" alt="Share & Print Orders" width="75" height="75"/>
-                                    <h4>Share & Print Orders</h4>
-                                    <p>Allow customers to share their orders on social networks or print them for further use. </p>
+                                    <h4>Compressed file</h4>
+                                    <p>zip, rar </p>
                                 </td>
                             </tr>
                             <tr>
                                 <td width="50%">
                                     <img src="https://i.ibb.co/k2RKGpW/icon3.png" alt="Enable Newsletter Subscription" width="75" height="75"/>
-                                    <h4>Enable Newsletter Subscription</h4>
-                                    <p>Embed Magento 2 default newsletter form with pre-populated email address field to grow your subscriber list.</p>
+                                    <h4>Image</h4>
+                                    <p>png, jpg, jpeg, gif, svg</p>
                                 </td>
                                 <td width="50%">
                                     <img src="https://i.ibb.co/DtCZDwb/icon4.png" alt="Enable Registration" width="75" height="75"/>
-                                    <h4>Enable Registration</h4>
-                                    <p>Convert random customers into registered ones by letting them create an account right on success page.</p>
+                                    <h4>Audio</h4>
+                                    <p>mp3</p>
                                 </td>
                             </tr>
                             <tr>
                                 <td width="50%">
                                     <img src="https://i.ibb.co/SyQT0Zb/icon5.png" alt="Enable Newsletter Subscription" width="75" height="75"/>
-                                    <h4>Enable Newsletter Subscription</h4>
-                                    <p>Embed Magento 2 default newsletter form with pre-populated email address field to grow your subscriber list.</p>
+                                    <h4>Video</h4>
+                                    <p>mp4, avi, flv, mov</p>
                                 </td>
                                 <td width="50%">
                                     <img src="https://i.ibb.co/1fXXJJ4/icon6.png" alt="Enable Registration" width="75" height="75"/>
                                     <h4>Links</h4>
-                                    <p>Youtube link, Google Drive link, dropbox, etc. </p>
+                                    <p>Youtube link, Google Drive link, dropbox, etc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                                 </td>
                             </tr>
                         </tbody>
