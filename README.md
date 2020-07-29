@@ -83,44 +83,51 @@
                     </td>
                 </tr>
                 <br/>
+                 <tr id="unlimited-formats">
+                    <td colspan="2">
+                        <h2 align="center">Attach Unlimited Files of Various Formats</h2>
+                        <p align="center">No matter which file type you want to upload,<b> Product Attachments</b> extension can support all. Attach multiple files in any desired format to help customers access as much useful product information as possible. </p>
+                    </td>
+                </tr>
+                <br/>
                 <tr>
                 <td colspan="2">
                     <table>
                         <tbody>
                             <tr>
                                 <td width="50%" style="display: inline-block;">
-                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Show Order Details" width="200" height="121"/>
-                                    <h4>Show Order Details</h4>
-                                    <p>Let customers review their orders by displaying order summary, shipping address, shipping method, billing address and payment method.</p>
+                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Document" width="75" height="75"/>
+                                    <h4>Document</h4>
+                                    <p>doc, docx, pdf, pptx, xlsx, readme, txt</p>
                                 </td>
                                 <td width="50%">
-                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Share & Print Orders" width="200" height="121"/>
+                                    <img src="https://i.ibb.co/XyTgZst/icon2.png" alt="Share & Print Orders" width="75" height="75"/>
                                     <h4>Share & Print Orders</h4>
                                     <p>Allow customers to share their orders on social networks or print them for further use. </p>
                                 </td>
                             </tr>
                             <tr>
                                 <td width="50%">
-                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Newsletter Subscription" width="200" height="121"/>
+                                    <img src="https://i.ibb.co/k2RKGpW/icon3.png" alt="Enable Newsletter Subscription" width="75" height="75"/>
                                     <h4>Enable Newsletter Subscription</h4>
                                     <p>Embed Magento 2 default newsletter form with pre-populated email address field to grow your subscriber list.</p>
                                 </td>
                                 <td width="50%">
-                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Registration" width="200" height="121"/>
+                                    <img src="https://i.ibb.co/DtCZDwb/icon4.png" alt="Enable Registration" width="75" height="75"/>
                                     <h4>Enable Registration</h4>
                                     <p>Convert random customers into registered ones by letting them create an account right on success page.</p>
                                 </td>
                             </tr>
                             <tr>
                                 <td width="50%">
-                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Newsletter Subscription" width="200" height="121"/>
+                                    <img src="https://i.ibb.co/SyQT0Zb/icon5.png" alt="Enable Newsletter Subscription" width="75" height="75"/>
                                     <h4>Enable Newsletter Subscription</h4>
                                     <p>Embed Magento 2 default newsletter form with pre-populated email address field to grow your subscriber list.</p>
                                 </td>
                                 <td width="50%">
-                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Registration" width="200" height="121"/>
-                                    <h4>Enable Registration</h4>
-                                    <p>Convert random customers into registered ones by letting them create an account right on success page.</p>
+                                    <img src="https://i.ibb.co/1fXXJJ4/icon6.png" alt="Enable Registration" width="75" height="75"/>
+                                    <h4>Links</h4>
+                                    <p>Youtube link, Google Drive link, dropbox, etc. </p>
                                 </td>
                             </tr>
                         </tbody>
@@ -144,7 +151,6 @@
                         <h2>Group Attachments By Category</h2>
                         <p>For easy file management, our <b>Magento 2 Product Attachments</b> lets you group attachments by category. You can create as many categories as wanted and assign an attachment to any category.  </p>
                         <p>On the frontend, each category along with its attachments is clearly displayed so that customers can easily follow.  </p>
-                        <p><strong>Magento 2 FAQ Extension</strong> is also integrated with Magento default XML Sitemap which can achieve better SEO results.</p>
                     </td>
                     <td>
                         <img src="https://www.magezon.com/pub/media/product-attachments/group-attachments-by-category.png" alt="Group Attachments By Category" title="Group Attachments By Category">
