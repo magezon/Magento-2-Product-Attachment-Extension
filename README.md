@@ -83,74 +83,38 @@
                     </td>
                 </tr>
                 <br/>
-                <tr id="unlimited-formats">
-                    <tr>
-                <td>
-                        <h2>Attach Unlimited Files of Various Formats</h2>
-                      <p>No matter which file type you want to upload, <b>Product Attachments</b> extension can support all. Attach multiple files in any desired format to help customers access as much useful product information as possible. </p>
-                    </td>
-                </tr>    
-                    <tr>
-                        <table>
+                <tr>
+                <td colspan="2">
+                    <table>
                         <tbody>
-                            <tr>                                                   
-                                <td valign="top">
-                                    <div>
-                                        <p align="center">
-                                        <h3 align="center"> Document </h3>
-                                        </p>
-                                    <p>doc, docx, pdf, pptx, xlsx, readme, txt</p>
-                                    </div>
+                            <tr>
+                                <td width="50%">
+                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/order-details.png" alt="Show Order Details" width="200" height="121"/>
+                                    <h4>Show Order Details</h4>
+                                    <p>Let customers review their orders by displaying order summary, shipping address, shipping method, billing address and payment method.</p>
                                 </td>
-                                <td valign="top">
-                                    <div>
-                                        <p align="center">
-                                        <h3 align="center"> Compressed file </h3>
-                                        </p>
-                                    <p>zip, rar</p>
-                                    </div>
+                                <td width="50%">
+                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/share-print-orders.png" alt="Share & Print Orders" width="200" height="121"/>
+                                    <h4>Share & Print Orders</h4>
+                                    <p>Allow customers to share their orders on social networks or print them for further use. </p>
                                 </td>
                             </tr>
-                            <tr>                                                   
-                                <td valign="top">
-                                    <div>
-                                        <p align="center">
-                                        <h3 align="center"> Image </h3>
-                                        </p>
-                                    <p>png, jpg, jpeg, gif, svg</p>
-                                    </div>
+                            <tr>
+                                <td width="50%">
+                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/newsletter-form.png" alt="Enable Newsletter Subscription" width="200" height="121"/>
+                                    <h4>Enable Newsletter Subscription</h4>
+                                    <p>Embed Magento 2 default newsletter form with pre-populated email address field to grow your subscriber list.</p>
                                 </td>
-                                <td valign="top">
-                                    <div>
-                                        <p align="center">
-                                        <h3 align="center"> Audio </h3>
-                                        </p>
-                                    <p>mp3</p>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr>                                                   
-                                <td valign="top">
-                                    <div>
-                                        <p align="center">
-                                        <h3 align="center"> Video </h3>
-                                        </p>
-                                    <p>mp4, avi, flv, mov</p>
-                                    </div>
-                                </td>
-                                <td valign="top">
-                                    <div>
-                                        <p align="center">
-                                        <h3 align="center"> Links </h3>
-                                        </p>
-                                    <p>Youtube link, Google Drive link, dropbox, etc. </p>
-                                    </div>
+                                <td width="50%">
+                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/registration-button.png" alt="Enable Registration" width="200" height="121"/>
+                                    <h4>Enable Registration</h4>
+                                    <p>Convert random customers into registered ones by letting them create an account right on success page.</p>
                                 </td>
                             </tr>
                         </tbody>
                     </table>
-                </tr>
-                </tr>
+                </td>
+            </tr>
                 <br/>
                 <tr id="icons">
                     <td  width="50%">
