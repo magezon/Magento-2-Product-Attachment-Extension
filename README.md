@@ -111,6 +111,18 @@
                                     <p>Convert random customers into registered ones by letting them create an account right on success page.</p>
                                 </td>
                             </tr>
+                            <tr>
+                                <td width="50%">
+                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Newsletter Subscription" width="200" height="121"/>
+                                    <h4>Enable Newsletter Subscription</h4>
+                                    <p>Embed Magento 2 default newsletter form with pre-populated email address field to grow your subscriber list.</p>
+                                </td>
+                                <td width="50%">
+                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Registration" width="200" height="121"/>
+                                    <h4>Enable Registration</h4>
+                                    <p>Convert random customers into registered ones by letting them create an account right on success page.</p>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </td>
