@@ -21,7 +21,7 @@
                             <li><a href="import" title="Bulk Import Attachments Via CSV">Bulk Import Attachments Via CSV</a></li>
                             <li><a href="single-product" title="Compatible With Single Product Page Builder">Compatible With Single Product Page Builder</a></li>
                             <li><a href="more-features" title="Explore More Amazing Features">Explore More Amazing Features</a></li>
-                            <li><a href="#" title="Amazing Aftersales Support and Tutorials">Amazing Aftersales Support and Tutorials</a></li>
+                            <li><a href="support" title="Amazing Aftersales Support and Tutorials">Amazing Aftersales Support and Tutorials</a></li>
                         </ul>
                     </div>
                 </div>
@@ -258,7 +258,7 @@
             </table>
         </tr>
         <br/>
-         <tr>
+         <tr id="support">
                     <h2 align="center">Amazing Aftersales Support and Tutorials</h2>
                     <table>
                         <tbody>
@@ -457,6 +457,25 @@
                         <p>If you want to use our extension on another Magento installation, you have to purchase another license for this installation.</p>
                         <p>If you’re running multiple domains or websites under the same Magento installation, you just need to use one extension license.</p>
                     </div>
+                </tr>
+                 <tr>
+                    <h2>Magezon Extensions</h2>
+                    <div>
+                       <ul>
+                           <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html" rel="nofollow">Magento 2 Page Builder</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html" rel="nofollow">Magento 2 Single Product Page Builder</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-form-builder.html" rel="nofollow">Magento 2 Form Builder</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-shop-by-brand.html" rel="nofollow">Magento 2 Shop By Brand</a></li>
+                           <li><a href="https://www.magezon.com/product-labels.html" rel="nofollow">Magento 2 Product Labels</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-quick-order.html" rel="nofollow">Magento 2 Quick Order</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html" rel="nofollow">Magento 2 Ajax Cart</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-lazy-load.html/" rel="nofollow">Magento 2 Lazy Load</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/" rel="nofollow">Magento 2 Tabs</a></li>
+                           <li><a href="https://www.magezon.com/magento-2-customer-attachments.html" rel="nofollow">Magento 2 Customer Attachments</a></li>
+                           <li><a href="https://www.magezon.com/configurable-product-matrix.html" rel="nofollow">Magento 2 Configurable Product Matrix</a></li>
+                       </ul>
+                    </div>    
                 </tr>
             </tbody>
         </table>
