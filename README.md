@@ -42,8 +42,8 @@
 <div>
     <table>
         <tbody>
-        <h2>Feature Highlights</h2>
         <tr id="product-pages">
+            <h2>Feature Highlights</h2>
             <td width="50%">
                 <h2>Display Attachments On Product Pages</h2>
                 <p>With <b>Magento 2 Product Attachments</b>, you’re able to add unlimited files on each product page to provide customers with more information about the product.</p>
