@@ -17,11 +17,11 @@
                             <li><a href="#unlimited-formats" title="Attach Unlimited Files Of Various Formats">Attach Unlimited Files Of Various Formats</a></li>
                             <li><a href="#icons" title="Display Icons Matching Each Attachment Type">Display Icons Matching Each Attachment Type</a></li>
                             <li><a href="#category" title="Group Attachments By Category">Group Attachments By Category</a></li>
-                            <li><a href="report" title="View Report On Attachment Downloads">View Report On Attachment Downloads</a></li>
-                            <li><a href="import" title="Bulk Import Attachments Via CSV">Bulk Import Attachments Via CSV</a></li>
-                            <li><a href="single-product" title="Compatible With Single Product Page Builder">Compatible With Single Product Page Builder</a></li>
-                            <li><a href="more-features" title="Explore More Amazing Features">Explore More Amazing Features</a></li>
-                            <li><a href="support" title="Amazing Aftersales Support and Tutorials">Amazing Aftersales Support and Tutorials</a></li>
+                            <li><a href="#report" title="View Report On Attachment Downloads">View Report On Attachment Downloads</a></li>
+                            <li><a href="#import" title="Bulk Import Attachments Via CSV">Bulk Import Attachments Via CSV</a></li>
+                            <li><a href="#single-product" title="Compatible With Single Product Page Builder">Compatible With Single Product Page Builder</a></li>
+                            <li><a href="#more-features" title="Explore More Amazing Features">Explore More Amazing Features</a></li>
+                            <li><a href="#support" title="Amazing Aftersales Support and Tutorials">Amazing Aftersales Support and Tutorials</a></li>
                         </ul>
                     </div>
                 </div>
