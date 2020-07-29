@@ -91,36 +91,36 @@
                     <tbody>
                     <tr>
                         <td width="50%" style="display: inline-block;">
-                            <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Document" width="75" height="75"/>
+                            <img src="https://i.ibb.co/R4XWm45/document.png" alt="Document" width="100" height="80"/>
                             <h4>Document</h4>
                             <p>doc, docx, pdf, pptx, xlsx, readme, txt</p>
                         </td>
                         <td width="50%">
-                            <img src="https://i.ibb.co/XyTgZst/icon2.png" alt="Share & Print Orders" width="75" height="75"/>
+                            <img src="https://i.ibb.co/MNcjLSz/composer.png" alt="Share & Print Orders" width="100" height="80"/>
                             <h4>Compressed file</h4>
                             <p>zip, rar </p>
                         </td>
                     </tr>
                     <tr>
                         <td width="50%">
-                            <img src="https://i.ibb.co/k2RKGpW/icon3.png" alt="Enable Newsletter Subscription" width="75" height="75"/>
+                            <img src="https://i.ibb.co/xCQHV18/image.png" alt="Enable Newsletter Subscription" width="100" height="80"/>
                             <h4>Image</h4>
                             <p>png, jpg, jpeg, gif, svg</p>
                         </td>
                         <td width="50%">
-                            <img src="https://i.ibb.co/DtCZDwb/icon4.png" alt="Enable Registration" width="75" height="75"/>
+                            <img src="https://i.ibb.co/VMHJvhP/audio.png" alt="Enable Registration" width="100" height="80"/>
                             <h4>Audio</h4>
                             <p>mp3</p>
                         </td>
                     </tr>
                     <tr>
                         <td width="50%">
-                            <img src="https://i.ibb.co/SyQT0Zb/icon5.png" alt="Enable Newsletter Subscription" width="75" height="75"/>
+                            <img src="https://i.ibb.co/10Ljddq/v.png" alt="Enable Newsletter Subscription" width="100" height="80"/>
                             <h4>Video</h4>
                             <p>mp4, avi, flv, mov</p>
                         </td>
                         <td width="50%">
-                            <img src="https://i.ibb.co/1fXXJJ4/icon6.png" alt="Enable Registration" width="75" height="75"/>
+                            <img src="https://i.ibb.co/CBB6Hdf/l.png" alt="Enable Registration" width="100" height="80"/>
                             <h4>Links</h4>
                             <p>Youtube link, Google Drive link, dropbox, etc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                         </td>
