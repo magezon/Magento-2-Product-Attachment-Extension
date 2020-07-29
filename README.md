@@ -39,6 +39,7 @@
     </tr>
 </table>
 <div>
+    <h1>Feature Highlights</h1>
     <table>
         <tbody>
         <tr id="product-pages">
@@ -55,7 +56,6 @@
                 <img src="https://www.magezon.com/pub/media/product-attachments/display-attachments-on-product-pages.gif" alt="Display attachments on product pages" title="Display attachments on product pages"/>
             </td>
         </tr>
-        <br/>
         <tr id="order">
             <td width="50%">
                 <img src="https://www.magezon.com/pub/media/product-attachments/display-attachments-on-order-view-page-_-order-confirmation-email.gif" alt="Display Attachments On Order View Page & Confirmation Email" title="Display Attachments On Order View Page & Confirmation Email">
@@ -65,7 +65,6 @@
                 <p>Besides product pages, customers can find attachments on the order view page and order confirmation email after they purchase the product. Accessing these attachments, therefore, will be more convenient for customers. </p>
             </td>
         </tr>
-        <br/>
         <tr id="type-upload">
             <td>
                 <h2>2 Ways to Upload Files</h2>
@@ -80,14 +79,12 @@
                 <img src="https://www.magezon.com/pub/media/product-attachments/2-ways-to-attach-files.gif" alt="2 Ways to Upload Files" title="2 Ways to Upload Files">
             </td>
         </tr>
-        <br/>
         <tr id="unlimited-formats">
             <td colspan="2">
                 <h2 align="center">Attach Unlimited Files of Various Formats</h2>
                 <p align="center">No matter which file type you want to upload,<b> Product Attachments</b> extension can support all. Attach multiple files in any desired format to help customers access as much useful product information as possible. </p>
             </td>
         </tr>
-        <br/>
         <tr>
             <td colspan="2" align="center">
                 <table align="center">
@@ -132,7 +129,6 @@
                 </table>
             </td>
         </tr>
-        <br/>
         <tr id="icons">
             <td  width="50%" >
                 <img src="https://i.ibb.co/dcxvSY0/Screenshot.png" alt="Display Icons Matching Each Attachment Type" title="Display Icons Matching Each Attachment Type">
@@ -143,7 +139,6 @@
                 <p>When an attachment is uploaded, it will be auto displayed with the icon it’s been assigned to. </p>
             </td>
         </tr>
-        <br/>
         <tr id="category">
             <td>
                 <h2>Group Attachments By Category</h2>
@@ -154,7 +149,6 @@
                 <img src="https://www.magezon.com/pub/media/product-attachments/group-attachments-by-category.png" alt="Group Attachments By Category" title="Group Attachments By Category">
             </td>
         </tr>
-        <br/>
         <tr id="report">
             <td>
                 <img src="https://www.magezon.com/pub/media/product-attachments/attachment-report.png" alt="View Report On Attachment Downloads" title="View Report On Attachment Downloads">
@@ -164,7 +158,6 @@
                 <p>To help you keep track of attachment downloads, <b>Product Attachments for Magento 2</b> extension provides a detailed report with all necessary data for analysis including file ID, file name, customer name, store view, customer name and download time. </p>
             </td>
         </tr>
-        <br/>
         <tr id="import">
             <td>
                 <h2>Bulk Import Attachments Via CSV</h2>
@@ -174,7 +167,6 @@
                 <img src="https://www.magezon.com/pub/media/product-attachments/bulk-import-attachments-via-csv.gif" alt="Bulk Import Attachments Via CSV" title="Bulk Import Attachments Via CSV">
             </td>
         </tr>
-        <br/>
         <tr id="single-product">
             <td>
                 <img src="https://www.magezon.com/pub/media/product-attachments/fully-compatible-with-single-product-page-builder.png" alt="Compatible With Single Product Page Builder" title="Compatible With Single Product Page Builder">
@@ -184,13 +176,11 @@
                 <p>When being installed together with Magento 2 Product Attachments, Single Product Page Builder has a new element called <b>Product Attachments</b>. You can add this element to the builder section to create your desired product page layout.  </p>
             </td>
         </tr>
-        <br/>
         <tr id="more-features">
             <td colspan="2">
                 <h2 align="center">Explore More Amazing Features</h2>
             </td>
         </tr>
-        <br/>
         <tr>
             <table>
                 <tbody>
@@ -255,7 +245,6 @@
                 </tbody>
             </table>
         </tr>
-        <br/>
         <tr id="support">
             <h2 align="center">Amazing Aftersales Support and Tutorials</h2>
             <table>
@@ -290,7 +279,6 @@
                 </tbody>
             </table>
         </tr>
-        <br/>
         <tr>
             <h2>Feature Full List</h2>
             <table>
@@ -368,7 +356,6 @@
                 </tbody>
             </table>
         </tr>
-        <br/>
         <tr>
             <h2>Frequently Asked Questions </h2>
             <p>Do you have any questions about <b>Product Attachments?</b> See the list below for our most frequently asked questions. If your questions are not listed here, please contact us.</p>
