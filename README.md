@@ -39,11 +39,11 @@
     </tr>
 </table>
 <div>
-    <h2>Display Attachments On Product Pages</h2>
     <table>
         <tbody>
         <tr id="product-pages">
             <td width="50%">
+                <h2>Display Attachments On Product Pages</h2>
                 <p>With <b>Magento 2 Product Attachments</b>, you’re able to add unlimited files on each product page to provide customers with more information about the product.</p>
                 <p>There are 2 positions to display the attachments on the product pages:</p>
                 <ul class="firebase-list">
@@ -291,7 +291,6 @@
             </table>
         </tr>
         <br/>
-        <br/>
         <tr>
             <h2>Feature Full List</h2>
             <table>
@@ -375,10 +374,10 @@
             <p>Do you have any questions about <b>Product Attachments?</b> See the list below for our most frequently asked questions. If your questions are not listed here, please contact us.</p>
             <br/>
             <h3>Feature FAQs</h3>
-<!--            <div>-->
-<!--                <strong>Installation Instructions?</strong>-->
-<!--                <p>To install this extension, please refer to <a title=" Magento 2 Product Attachments&nbsp;Installation Guide" href="https://magezon.com/pub/media/productfile/loginascustomer-installation-guides.pdf" target="_blank" rel="noopener">Magento 2 Product Attachment&nbsp;Installation Guide</a>&nbsp;for detailed instructions. It will take you just a few minutes to install our extension.</p>-->
-<!--            </div>-->
+            <div>
+                <strong>Installation Instructions?</strong>
+                <p>To install this extension, please refer to <a title=" Magento 2 Product Attachments&nbsp;Installation Guide" href="https://magezon.com/pub/media/productfile/loginascustomer-installation-guides.pdf" target="_blank" rel="noopener">Magento 2 Product Attachment&nbsp;Installation Guide</a>&nbsp;for detailed instructions. It will take you just a few minutes to install our extension.</p>
+            </div>
             <div>
                 <strong>Can I set the maximum file size that is allowed to upload?</strong>
                 <p>Yes, you can specify the maximum allowed file size to upload. If an attachment’s size exceeds this max size, it can’t be uploaded.</p>
