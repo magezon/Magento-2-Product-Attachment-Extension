@@ -88,25 +88,25 @@
                     <table>
                         <tbody>
                             <tr>
-                                <td width="50%">
-                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/order-details.png" alt="Show Order Details" width="200" height="121"/>
+                                <td width="50%" style="display: inline-block;">
+                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Show Order Details" width="200" height="121"/>
                                     <h4>Show Order Details</h4>
                                     <p>Let customers review their orders by displaying order summary, shipping address, shipping method, billing address and payment method.</p>
                                 </td>
                                 <td width="50%">
-                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/share-print-orders.png" alt="Share & Print Orders" width="200" height="121"/>
+                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Share & Print Orders" width="200" height="121"/>
                                     <h4>Share & Print Orders</h4>
                                     <p>Allow customers to share their orders on social networks or print them for further use. </p>
                                 </td>
                             </tr>
                             <tr>
                                 <td width="50%">
-                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/newsletter-form.png" alt="Enable Newsletter Subscription" width="200" height="121"/>
+                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Newsletter Subscription" width="200" height="121"/>
                                     <h4>Enable Newsletter Subscription</h4>
                                     <p>Embed Magento 2 default newsletter form with pre-populated email address field to grow your subscriber list.</p>
                                 </td>
                                 <td width="50%">
-                                    <img src="https://www.magezon.com/pub/media/wysiwyg/feature-icons/registration-button.png" alt="Enable Registration" width="200" height="121"/>
+                                    <img src="https://i.ibb.co/6YZ5j7m/icon1.png" alt="Enable Registration" width="200" height="121"/>
                                     <h4>Enable Registration</h4>
                                     <p>Convert random customers into registered ones by letting them create an account right on success page.</p>
                                 </td>
@@ -117,7 +117,7 @@
             </tr>
                 <br/>
                 <tr id="icons">
-                    <td  width="50%">
+                    <td  width="50%" >
                         <img src="https://i.ibb.co/dcxvSY0/Screenshot.png" alt="Display Icons Matching Each Attachment Type" title="Display Icons Matching Each Attachment Type">
                     </td>
                     <td width="40%">
