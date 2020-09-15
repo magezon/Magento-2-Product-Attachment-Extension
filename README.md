@@ -169,7 +169,7 @@
         </tr>
         <tr id="single-product">
             <td>
-                <img src="https://www.magezon.com/pub/media/product-attachments/fully-compatible-with-single-product-page-builder.png" alt="Compatible With Single Product Page Builder" title="Compatible With Single Product Page Builder">
+                <img src="https://www.magezon.com/pub/media/product-attachments/compatible-with-single-product-page-builder-magento-2.png" alt="Compatible With Single Product Page Builder" title="Compatible With Single Product Page Builder">
             </td>
             <td>
                 <h2>Compatible With Single Product Page Builder</h2>
