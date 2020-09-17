@@ -246,7 +246,7 @@
             </table>
         </tr>
         <tr id="support">
-            <h2 align="center">Amazing Aftersales Support and Tutorials</h2>
+            <h2 id="support" align="center">Amazing Aftersales Support and Tutorials</h2>
             <table>
                 <tbody>
                 <td>
@@ -270,7 +270,7 @@
                 <td>
                     <div>
                         <p align="center">
-                            <img src="https://www.magezon.com/pub/media/product-attachments/magezon-product-attachments-lifetime-updates.jpg" alt="LifeTime Updates Free of Charge" width="324" height="177" title="LifeTime Updates Free of Charge">
+                            <img src="https://www.magezon.com/pub/media/product-attachments/product-attachments-lifetime-updates.jpg" alt="LifeTime Updates Free of Charge" width="324" height="177" title="LifeTime Updates Free of Charge">
                         </p>
                         <h3 align="center">LifeTime Updates Free of Charge</h3>
                         <p>We guarantee that you don’t have to pay for any <b>Magezon 2 Product Attachments </b> update. Make a one-time payment and you will get FREE lifetime updates.</p>
