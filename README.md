@@ -264,7 +264,7 @@
                             <img src="https://www.magezon.com/pub/media/wysiwyg/knowledge-base-and-video-tutorials.png" alt="Knowledge Base and Video Tutorials" width="225" height="167" title="Knowledge Base and Video Tutorials">
                         </p>
                         <h3 align="center">Knowledge Base and Video Tutorials</h3>
-                        <p>We provide Video Tutorials with visual guidance for using the extension. Besides, you can use <a href="#">User Guide</a> for every tiny detail.</p>
+                        <p>We provide Video Tutorials with visual guidance for using the extension. Besides, you can use <a href="https://magezon.com/pub/media/productfile/product_attachments_user_guide.pdf">User Guide</a> for every tiny detail.</p>
                     </div>
                 </td>
                 <td>
